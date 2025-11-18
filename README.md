@@ -171,7 +171,11 @@ live monitoring - anpr output - <img width="1184" height="672" alt="image" src="
                 - Helmet Detection - <img width="631" height="497" alt="image" src="https://github.com/user-attachments/assets/b106bf4f-9a07-4b19-85fc-c917b4e54d75" />
                 - Traffic Violation Detection - 
 Upload Video - <img width="1426" height="559" alt="image" src="https://github.com/user-attachments/assets/4b649f39-07f9-40b9-8d63-82af6690e8c5" />
-Results - 
+Results - <img width="1368" height="634" alt="image" src="https://github.com/user-attachments/assets/784afbd2-1ca1-49ce-9f02-c7e98bffb91c" />
+db - <img width="440" height="126" alt="image" src="https://github.com/user-attachments/assets/0607916d-dd52-4d75-ae49-b5b966997b7f" />
+
+
+
 
 
 
