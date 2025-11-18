@@ -1,0 +1,1436 @@
+[triple_worker] Processing: /Users/amarjeet/Desktop/ANPR-and-ATCC-for-Smart-Traffic-Management-main/static/uploads/trie_riding_2.mp4
+
+0: 384x640 10 persons, 1 bicycle, 1 car, 10 motorcycles, 2 clocks, 222.9ms
+Speed: 3.3ms preprocess, 222.9ms inference, 4.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 0 people (not offense)
+Motorbike 10: 0 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 2 cars, 8 motorcycles, 2 clocks, 260.1ms
+Speed: 2.8ms preprocess, 260.1ms inference, 5.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 5 people (offense)
+Motorbike 2: 0 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 2 cars, 10 motorcycles, 2 clocks, 243.8ms
+Speed: 21.8ms preprocess, 243.8ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 1 people (not offense)
+Motorbike 10: 0 people (not offense)
+
+0: 384x640 7 persons, 1 bicycle, 3 cars, 9 motorcycles, 2 clocks, 167.2ms
+Speed: 3.0ms preprocess, 167.2ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 0 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 2 cars, 7 motorcycles, 2 clocks, 154.2ms
+Speed: 2.6ms preprocess, 154.2ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 2 cars, 9 motorcycles, 2 clocks, 143.2ms
+Speed: 2.2ms preprocess, 143.2ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 0 people (not offense)
+
+0: 384x640 12 persons, 1 bicycle, 1 car, 7 motorcycles, 2 clocks, 145.4ms
+Speed: 2.0ms preprocess, 145.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 4 people (offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 1 car, 8 motorcycles, 2 clocks, 142.8ms
+Speed: 2.1ms preprocess, 142.8ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 4 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 1 car, 7 motorcycles, 2 clocks, 162.3ms
+Speed: 2.3ms preprocess, 162.3ms inference, 4.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 1 car, 8 motorcycles, 2 clocks, 182.9ms
+Speed: 3.4ms preprocess, 182.9ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 2 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 3 cars, 11 motorcycles, 2 clocks, 172.2ms
+Speed: 2.5ms preprocess, 172.2ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 0 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 1 people (not offense)
+Motorbike 9: 0 people (not offense)
+Motorbike 10: 1 people (not offense)
+Motorbike 11: 1 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 3 cars, 9 motorcycles, 2 clocks, 171.5ms
+Speed: 2.2ms preprocess, 171.5ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 0 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 4 people (offense)
+Motorbike 8: 2 people (not offense)
+Motorbike 9: 0 people (not offense)
+
+0: 384x640 11 persons, 2 cars, 10 motorcycles, 2 clocks, 143.4ms
+Speed: 2.2ms preprocess, 143.4ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 5 people (offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 2 people (not offense)
+Motorbike 10: 1 people (not offense)
+
+0: 384x640 14 persons, 2 cars, 8 motorcycles, 2 clocks, 140.0ms
+Speed: 2.1ms preprocess, 140.0ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 5 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 3 people (offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 14 persons, 1 car, 9 motorcycles, 2 clocks, 142.0ms
+Speed: 2.6ms preprocess, 142.0ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 6 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 3 people (offense)
+
+0: 384x640 15 persons, 1 car, 10 motorcycles, 2 clocks, 147.5ms
+Speed: 2.1ms preprocess, 147.5ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 0 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 2 people (not offense)
+Motorbike 9: 2 people (not offense)
+Motorbike 10: 5 people (offense)
+
+0: 384x640 13 persons, 2 cars, 11 motorcycles, 2 clocks, 138.9ms
+Speed: 2.0ms preprocess, 138.9ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 0 people (not offense)
+Motorbike 10: 3 people (offense)
+Motorbike 11: 0 people (not offense)
+
+0: 384x640 14 persons, 2 cars, 10 motorcycles, 2 clocks, 141.0ms
+Speed: 2.3ms preprocess, 141.0ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 4 people (offense)
+Motorbike 9: 3 people (offense)
+Motorbike 10: 0 people (not offense)
+
+0: 384x640 13 persons, 2 cars, 10 motorcycles, 2 clocks, 154.2ms
+Speed: 2.2ms preprocess, 154.2ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 2 people (not offense)
+Motorbike 9: 1 people (not offense)
+Motorbike 10: 3 people (offense)
+
+0: 384x640 11 persons, 2 cars, 8 motorcycles, 2 clocks, 144.6ms
+Speed: 2.3ms preprocess, 144.6ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 10 persons, 2 cars, 7 motorcycles, 2 clocks, 178.5ms
+Speed: 2.3ms preprocess, 178.5ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 11 persons, 3 cars, 9 motorcycles, 2 clocks, 231.2ms
+Speed: 3.0ms preprocess, 231.2ms inference, 4.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 3 people (offense)
+Motorbike 9: 1 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 9 motorcycles, 3 clocks, 175.4ms
+Speed: 3.2ms preprocess, 175.4ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 3 people (offense)
+Motorbike 8: 2 people (not offense)
+Motorbike 9: 2 people (not offense)
+
+0: 384x640 14 persons, 3 cars, 9 motorcycles, 2 clocks, 160.5ms
+Speed: 2.8ms preprocess, 160.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 4 people (offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 5 people (offense)
+Motorbike 9: 6 people (offense)
+
+0: 384x640 11 persons, 4 cars, 7 motorcycles, 2 clocks, 146.4ms
+Speed: 2.3ms preprocess, 146.4ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 3 people (offense)
+
+0: 384x640 12 persons, 1 bicycle, 5 cars, 6 motorcycles, 2 clocks, 142.8ms
+Speed: 2.0ms preprocess, 142.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 4 people (offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 3 people (offense)
+
+0: 384x640 8 persons, 6 cars, 8 motorcycles, 2 clocks, 162.3ms
+Speed: 2.6ms preprocess, 162.3ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 7 persons, 5 cars, 7 motorcycles, 2 clocks, 163.0ms
+Speed: 1.9ms preprocess, 163.0ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 0 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 9 persons, 8 cars, 7 motorcycles, 2 clocks, 138.5ms
+Speed: 2.2ms preprocess, 138.5ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 7 cars, 6 motorcycles, 2 clocks, 139.0ms
+Speed: 3.2ms preprocess, 139.0ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 6 cars, 7 motorcycles, 2 clocks, 146.8ms
+Speed: 2.2ms preprocess, 146.8ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 5 cars, 7 motorcycles, 3 clocks, 141.9ms
+Speed: 2.2ms preprocess, 141.9ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 7 cars, 10 motorcycles, 2 clocks, 144.6ms
+Speed: 2.3ms preprocess, 144.6ms inference, 4.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 0 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 1 people (not offense)
+Motorbike 9: 2 people (not offense)
+Motorbike 10: 0 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 8 cars, 10 motorcycles, 2 clocks, 152.4ms
+Speed: 2.1ms preprocess, 152.4ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+Motorbike 9: 1 people (not offense)
+Motorbike 10: 1 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 6 cars, 8 motorcycles, 2 clocks, 155.3ms
+Speed: 2.4ms preprocess, 155.3ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 6 cars, 7 motorcycles, 2 clocks, 141.2ms
+Speed: 2.0ms preprocess, 141.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 5 cars, 8 motorcycles, 2 clocks, 147.0ms
+Speed: 2.2ms preprocess, 147.0ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 0 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 4 cars, 7 motorcycles, 1 umbrella, 2 clocks, 150.2ms
+Speed: 2.0ms preprocess, 150.2ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 4 cars, 8 motorcycles, 1 umbrella, 2 clocks, 140.6ms
+Speed: 2.9ms preprocess, 140.6ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 3 cars, 7 motorcycles, 1 traffic light, 2 clocks, 152.3ms
+Speed: 3.2ms preprocess, 152.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 4 cars, 6 motorcycles, 2 clocks, 134.6ms
+Speed: 2.2ms preprocess, 134.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+
+0: 384x640 12 persons, 1 bicycle, 4 cars, 6 motorcycles, 3 clocks, 141.6ms
+Speed: 2.3ms preprocess, 141.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 3 people (offense)
+
+0: 384x640 10 persons, 1 bicycle, 3 cars, 7 motorcycles, 3 clocks, 146.4ms
+Speed: 2.3ms preprocess, 146.4ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 3 cars, 7 motorcycles, 2 clocks, 149.1ms
+Speed: 2.4ms preprocess, 149.1ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 6 cars, 7 motorcycles, 2 clocks, 142.9ms
+Speed: 2.9ms preprocess, 142.9ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 5 cars, 7 motorcycles, 2 clocks, 147.0ms
+Speed: 2.2ms preprocess, 147.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 4 people (offense)
+
+0: 384x640 11 persons, 1 bicycle, 4 cars, 7 motorcycles, 2 clocks, 150.7ms
+Speed: 2.2ms preprocess, 150.7ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 3 cars, 7 motorcycles, 2 clocks, 150.6ms
+Speed: 2.3ms preprocess, 150.6ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 12 persons, 1 bicycle, 4 cars, 7 motorcycles, 2 clocks, 142.2ms
+Speed: 2.3ms preprocess, 142.2ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 4 people (offense)
+
+0: 384x640 13 persons, 1 bicycle, 6 cars, 7 motorcycles, 2 clocks, 143.9ms
+Speed: 3.0ms preprocess, 143.9ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 4 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 5 cars, 8 motorcycles, 2 clocks, 139.5ms
+Speed: 2.1ms preprocess, 139.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 4 cars, 9 motorcycles, 3 clocks, 151.1ms
+Speed: 2.4ms preprocess, 151.1ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 0 people (not offense)
+Motorbike 9: 1 people (not offense)
+
+0: 384x640 12 persons, 1 bicycle, 4 cars, 8 motorcycles, 2 clocks, 143.4ms
+Speed: 2.0ms preprocess, 143.4ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 6 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 4 people (offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 5 cars, 10 motorcycles, 2 clocks, 147.1ms
+Speed: 2.2ms preprocess, 147.1ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 0 people (not offense)
+Motorbike 6: 4 people (offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 3 people (offense)
+Motorbike 9: 3 people (offense)
+Motorbike 10: 0 people (not offense)
+
+0: 384x640 8 persons, 1 bicycle, 4 cars, 10 motorcycles, 2 clocks, 149.6ms
+Speed: 2.1ms preprocess, 149.6ms inference, 4.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 0 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 1 people (not offense)
+Motorbike 9: 3 people (offense)
+Motorbike 10: 2 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 6 cars, 7 motorcycles, 2 clocks, 138.1ms
+Speed: 1.9ms preprocess, 138.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 6 cars, 7 motorcycles, 3 clocks, 151.0ms
+Speed: 2.5ms preprocess, 151.0ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 3 cars, 7 motorcycles, 2 clocks, 150.6ms
+Speed: 2.3ms preprocess, 150.6ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 12 persons, 1 bicycle, 4 cars, 8 motorcycles, 2 clocks, 142.6ms
+Speed: 2.1ms preprocess, 142.6ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 3 people (offense)
+Motorbike 8: 2 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 2 cars, 8 motorcycles, 2 clocks, 143.5ms
+Speed: 2.2ms preprocess, 143.5ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 3 people (offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 2 cars, 7 motorcycles, 2 clocks, 140.8ms
+Speed: 2.5ms preprocess, 140.8ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 2 cars, 9 motorcycles, 3 clocks, 145.1ms
+Speed: 2.1ms preprocess, 145.1ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 2 people (not offense)
+Motorbike 9: 2 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 2 cars, 7 motorcycles, 2 clocks, 146.7ms
+Speed: 2.1ms preprocess, 146.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 5 people (offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 2 cars, 7 motorcycles, 3 clocks, 144.1ms
+Speed: 2.8ms preprocess, 144.1ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 5 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 14 persons, 1 bicycle, 3 cars, 6 motorcycles, 3 clocks, 150.3ms
+Speed: 2.0ms preprocess, 150.3ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 5 people (offense)
+
+0: 384x640 13 persons, 1 bicycle, 3 cars, 7 motorcycles, 3 clocks, 165.9ms
+Speed: 2.1ms preprocess, 165.9ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 5 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 4 people (offense)
+
+0: 384x640 14 persons, 1 bicycle, 3 cars, 7 motorcycles, 2 clocks, 178.9ms
+Speed: 2.3ms preprocess, 178.9ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 5 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 4 people (offense)
+Motorbike 7: 3 people (offense)
+
+0: 384x640 10 persons, 1 bicycle, 4 cars, 8 motorcycles, 2 clocks, 173.5ms
+Speed: 2.6ms preprocess, 173.5ms inference, 4.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 2 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 5 cars, 6 motorcycles, 2 clocks, 160.4ms
+Speed: 3.3ms preprocess, 160.4ms inference, 4.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 3 cars, 6 motorcycles, 2 clocks, 143.7ms
+Speed: 2.3ms preprocess, 143.7ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 5 cars, 8 motorcycles, 1 truck, 2 clocks, 144.6ms
+Speed: 1.9ms preprocess, 144.6ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 5 cars, 8 motorcycles, 1 truck, 2 clocks, 141.5ms
+Speed: 2.0ms preprocess, 141.5ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 3 people (offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 6 cars, 8 motorcycles, 3 clocks, 142.6ms
+Speed: 2.4ms preprocess, 142.6ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 0 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 7 cars, 5 motorcycles, 1 truck, 2 clocks, 142.1ms
+Speed: 2.1ms preprocess, 142.1ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 6 cars, 6 motorcycles, 2 clocks, 143.8ms
+Speed: 2.0ms preprocess, 143.8ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 5 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 3 people (offense)
+
+0: 384x640 10 persons, 1 bicycle, 8 cars, 7 motorcycles, 1 bus, 1 truck, 2 clocks, 138.5ms
+Speed: 2.1ms preprocess, 138.5ms inference, 4.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 4 cars, 9 motorcycles, 1 truck, 2 clocks, 141.6ms
+Speed: 2.1ms preprocess, 141.6ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 2 people (not offense)
+Motorbike 9: 2 people (not offense)
+
+0: 384x640 11 persons, 1 bicycle, 8 cars, 6 motorcycles, 1 truck, 2 clocks, 158.7ms
+Speed: 3.1ms preprocess, 158.7ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 10 persons, 1 bicycle, 7 cars, 6 motorcycles, 1 truck, 1 backpack, 2 clocks, 155.0ms
+Speed: 2.5ms preprocess, 155.0ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 9 persons, 1 bicycle, 6 cars, 6 motorcycles, 1 truck, 3 clocks, 144.4ms
+Speed: 2.4ms preprocess, 144.4ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 10 persons, 2 bicycles, 5 cars, 6 motorcycles, 1 truck, 3 clocks, 142.3ms
+Speed: 2.3ms preprocess, 142.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 13 persons, 2 bicycles, 3 cars, 7 motorcycles, 1 truck, 2 clocks, 142.2ms
+Speed: 2.3ms preprocess, 142.2ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 3 people (offense)
+
+0: 384x640 13 persons, 1 bicycle, 4 cars, 6 motorcycles, 1 truck, 3 clocks, 143.0ms
+Speed: 2.2ms preprocess, 143.0ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 15 persons, 1 bicycle, 4 cars, 6 motorcycles, 1 truck, 3 clocks, 147.6ms
+Speed: 2.6ms preprocess, 147.6ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 6 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 4 cars, 7 motorcycles, 1 truck, 1 backpack, 3 clocks, 153.0ms
+Speed: 2.3ms preprocess, 153.0ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 12 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 145.8ms
+Speed: 1.9ms preprocess, 145.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 12 persons, 1 bicycle, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 143.7ms
+Speed: 2.2ms preprocess, 143.7ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 5 cars, 8 motorcycles, 1 truck, 3 clocks, 145.5ms
+Speed: 2.1ms preprocess, 145.5ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 15 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 138.2ms
+Speed: 2.3ms preprocess, 138.2ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 4 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 3 people (offense)
+
+0: 384x640 13 persons, 1 bicycle, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 141.6ms
+Speed: 2.0ms preprocess, 141.6ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 4 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 5 cars, 8 motorcycles, 1 truck, 3 clocks, 141.0ms
+Speed: 2.0ms preprocess, 141.0ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 13 persons, 1 bicycle, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 146.1ms
+Speed: 2.5ms preprocess, 146.1ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 11 persons, 5 cars, 8 motorcycles, 1 truck, 3 clocks, 155.5ms
+Speed: 2.5ms preprocess, 155.5ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 144.5ms
+Speed: 2.2ms preprocess, 144.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 140.1ms
+Speed: 2.0ms preprocess, 140.1ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 4 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 150.5ms
+Speed: 2.1ms preprocess, 150.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 0 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 10 persons, 5 cars, 8 motorcycles, 1 truck, 3 clocks, 147.5ms
+Speed: 2.3ms preprocess, 147.5ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 12 persons, 5 cars, 7 motorcycles, 1 truck, 3 clocks, 146.0ms
+Speed: 2.7ms preprocess, 146.0ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 5 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 11 persons, 5 cars, 7 motorcycles, 1 truck, 3 clocks, 145.8ms
+Speed: 1.9ms preprocess, 145.8ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 10 persons, 5 cars, 6 motorcycles, 1 truck, 3 clocks, 170.4ms
+Speed: 2.2ms preprocess, 170.4ms inference, 5.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 11 persons, 6 cars, 6 motorcycles, 1 truck, 3 clocks, 181.6ms
+Speed: 2.4ms preprocess, 181.6ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 6 motorcycles, 1 truck, 3 clocks, 148.3ms
+Speed: 2.3ms preprocess, 148.3ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 1 people (not offense)
+
+0: 384x640 12 persons, 6 cars, 6 motorcycles, 1 truck, 3 clocks, 138.5ms
+Speed: 3.1ms preprocess, 138.5ms inference, 4.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+
+0: 384x640 12 persons, 4 cars, 8 motorcycles, 1 truck, 3 clocks, 137.9ms
+Speed: 2.0ms preprocess, 137.9ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 2 people (not offense)
+
+0: 384x640 10 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 144.9ms
+Speed: 2.7ms preprocess, 144.9ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 10 persons, 5 cars, 7 motorcycles, 1 truck, 3 clocks, 149.6ms
+Speed: 2.0ms preprocess, 149.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 7 motorcycles, 1 truck, 3 clocks, 138.3ms
+Speed: 2.6ms preprocess, 138.3ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+
+0: 384x640 12 persons, 6 cars, 8 motorcycles, 1 truck, 3 clocks, 149.1ms
+Speed: 2.6ms preprocess, 149.1ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 2 people (not offense)
+
+0: 384x640 12 persons, 4 cars, 8 motorcycles, 1 truck, 3 clocks, 137.7ms
+Speed: 2.1ms preprocess, 137.7ms inference, 4.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 4 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 3 people (offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 11 persons, 5 cars, 8 motorcycles, 1 truck, 3 clocks, 145.2ms
+Speed: 2.1ms preprocess, 145.2ms inference, 3.9ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 8 motorcycles, 1 truck, 3 clocks, 147.7ms
+Speed: 2.3ms preprocess, 147.7ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 4 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 3 people (offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 10 persons, 5 cars, 7 motorcycles, 1 truck, 3 clocks, 143.3ms
+Speed: 2.2ms preprocess, 143.3ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 1 people (not offense)
+
+0: 384x640 11 persons, 4 cars, 6 motorcycles, 1 truck, 3 clocks, 143.1ms
+Speed: 1.9ms preprocess, 143.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+
+0: 384x640 9 persons, 5 cars, 8 motorcycles, 1 truck, 1 backpack, 3 clocks, 141.7ms
+Speed: 3.2ms preprocess, 141.7ms inference, 4.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 2 people (not offense)
+Motorbike 8: 0 people (not offense)
+
+0: 384x640 8 persons, 6 cars, 7 motorcycles, 2 trucks, 3 clocks, 140.8ms
+Speed: 2.1ms preprocess, 140.8ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 9 persons, 5 cars, 7 motorcycles, 1 truck, 3 clocks, 146.3ms
+Speed: 2.3ms preprocess, 146.3ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 7 persons, 7 cars, 7 motorcycles, 1 truck, 3 clocks, 149.5ms
+Speed: 2.1ms preprocess, 149.5ms inference, 3.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+Motorbike 7: 0 people (not offense)
+
+0: 384x640 7 persons, 5 cars, 6 motorcycles, 1 truck, 3 clocks, 154.9ms
+Speed: 2.0ms preprocess, 154.9ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 3 people (offense)
+Motorbike 6: 2 people (not offense)
+
+0: 384x640 7 persons, 6 cars, 5 motorcycles, 3 trucks, 3 clocks, 139.4ms
+Speed: 2.3ms preprocess, 139.4ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 0 people (not offense)
+
+0: 384x640 7 persons, 4 cars, 5 motorcycles, 3 trucks, 3 clocks, 145.7ms
+Speed: 2.4ms preprocess, 145.7ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+
+0: 384x640 7 persons, 4 cars, 6 motorcycles, 3 trucks, 3 clocks, 144.6ms
+Speed: 2.2ms preprocess, 144.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+Motorbike 6: 2 people (not offense)
+
+0: 384x640 6 persons, 6 cars, 5 motorcycles, 3 trucks, 3 clocks, 144.1ms
+Speed: 2.1ms preprocess, 144.1ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+
+0: 384x640 6 persons, 9 cars, 5 motorcycles, 2 trucks, 3 clocks, 139.7ms
+Speed: 2.5ms preprocess, 139.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+
+0: 384x640 6 persons, 4 cars, 5 motorcycles, 2 trucks, 3 clocks, 141.6ms
+Speed: 2.1ms preprocess, 141.6ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+
+0: 384x640 9 persons, 6 cars, 5 motorcycles, 3 trucks, 3 clocks, 144.0ms
+Speed: 2.1ms preprocess, 144.0ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 2 people (not offense)
+Motorbike 5: 2 people (not offense)
+
+0: 384x640 5 persons, 5 cars, 5 motorcycles, 4 trucks, 3 clocks, 146.7ms
+Speed: 2.2ms preprocess, 146.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+
+0: 384x640 8 persons, 6 cars, 5 motorcycles, 3 trucks, 3 clocks, 139.4ms
+Speed: 2.7ms preprocess, 139.4ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 3 people (offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+
+0: 384x640 6 persons, 6 cars, 6 motorcycles, 3 trucks, 3 clocks, 142.4ms
+Speed: 2.0ms preprocess, 142.4ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 0 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 0 people (not offense)
+
+0: 384x640 7 persons, 7 cars, 5 motorcycles, 3 trucks, 3 clocks, 142.5ms
+Speed: 2.8ms preprocess, 142.5ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 0 people (not offense)
+Motorbike 3: 2 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 2 people (not offense)
+
+0: 384x640 7 persons, 4 cars, 5 motorcycles, 3 trucks, 3 clocks, 145.2ms
+Speed: 2.3ms preprocess, 145.2ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 1 people (not offense)
+Motorbike 5: 0 people (not offense)
+
+0: 384x640 4 persons, 6 cars, 8 motorcycles, 2 trucks, 3 clocks, 142.6ms
+Speed: 2.2ms preprocess, 142.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 1 people (not offense)
+Motorbike 6: 1 people (not offense)
+Motorbike 7: 0 people (not offense)
+Motorbike 8: 1 people (not offense)
+
+0: 384x640 5 persons, 5 cars, 5 motorcycles, 1 truck, 3 clocks, 140.5ms
+Speed: 2.2ms preprocess, 140.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 0 people (not offense)
+Motorbike 5: 1 people (not offense)
+
+0: 384x640 7 persons, 5 cars, 4 motorcycles, 2 trucks, 3 clocks, 145.5ms
+Speed: 1.9ms preprocess, 145.5ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 0 people (not offense)
+
+0: 384x640 9 persons, 6 cars, 3 motorcycles, 2 trucks, 3 clocks, 145.0ms
+Speed: 2.1ms preprocess, 145.0ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 8 persons, 8 cars, 3 motorcycles, 1 truck, 3 clocks, 145.9ms
+Speed: 2.7ms preprocess, 145.9ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 8 persons, 11 cars, 3 motorcycles, 2 trucks, 3 clocks, 141.4ms
+Speed: 2.2ms preprocess, 141.4ms inference, 3.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 8 persons, 8 cars, 3 motorcycles, 2 trucks, 3 clocks, 158.9ms
+Speed: 2.2ms preprocess, 158.9ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 2 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 9 persons, 8 cars, 4 motorcycles, 1 truck, 3 clocks, 150.3ms
+Speed: 2.7ms preprocess, 150.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 3 people (offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+Motorbike 4: 3 people (offense)
+
+0: 384x640 8 persons, 8 cars, 3 motorcycles, 1 truck, 3 clocks, 136.6ms
+Speed: 2.2ms preprocess, 136.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 5 people (offense)
+Motorbike 3: 3 people (offense)
+
+0: 384x640 7 persons, 6 cars, 3 motorcycles, 1 truck, 3 clocks, 140.8ms
+Speed: 2.1ms preprocess, 140.8ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 6 persons, 6 cars, 4 motorcycles, 1 truck, 3 clocks, 153.0ms
+Speed: 2.1ms preprocess, 153.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 1 people (not offense)
+Motorbike 3: 0 people (not offense)
+Motorbike 4: 1 people (not offense)
+
+0: 384x640 7 persons, 6 cars, 3 motorcycles, 1 truck, 3 clocks, 144.3ms
+Speed: 2.2ms preprocess, 144.3ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 5 persons, 6 cars, 3 motorcycles, 1 truck, 3 clocks, 148.9ms
+Speed: 2.1ms preprocess, 148.9ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 2 people (not offense)
+Motorbike 3: 1 people (not offense)
+
+0: 384x640 8 persons, 6 cars, 3 motorcycles, 1 truck, 4 clocks, 136.9ms
+Speed: 2.0ms preprocess, 136.9ms inference, 2.5ms postprocess per image at shape (1, 3, 384, 640)
+Motorbike 1: 1 people (not offense)
+Motorbike 2: 3 people (offense)
+Motorbike 3: 0 people (not offense)

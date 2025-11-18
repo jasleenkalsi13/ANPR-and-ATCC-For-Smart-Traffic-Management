@@ -1,0 +1,1087 @@
+
+0: 480x640 3 persons, 1 car, 2 motorcycles, 150.5ms
+Speed: 2.3ms preprocess, 150.5ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 2 motorcycles, 132.3ms
+Speed: 2.6ms preprocess, 132.3ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 3 motorcycles, 209.8ms
+Speed: 5.5ms preprocess, 209.8ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 2 motorcycles, 191.9ms
+Speed: 2.3ms preprocess, 191.9ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 2 motorcycles, 108.0ms
+Speed: 2.0ms preprocess, 108.0ms inference, 1.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 3 motorcycles, 126.2ms
+Speed: 2.2ms preprocess, 126.2ms inference, 1.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 4 motorcycles, 142.9ms
+Speed: 2.5ms preprocess, 142.9ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 125.7ms
+Speed: 1.9ms preprocess, 125.7ms inference, 1.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 127.2ms
+Speed: 1.7ms preprocess, 127.2ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 3 motorcycles, 140.5ms
+Speed: 1.7ms preprocess, 140.5ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 4 motorcycles, 143.6ms
+Speed: 1.7ms preprocess, 143.6ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 4 motorcycles, 133.5ms
+Speed: 1.7ms preprocess, 133.5ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 3 motorcycles, 126.8ms
+Speed: 1.6ms preprocess, 126.8ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 3 motorcycles, 124.5ms
+Speed: 1.8ms preprocess, 124.5ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 146.4ms
+Speed: 1.7ms preprocess, 146.4ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 1 car, 2 motorcycles, 149.8ms
+Speed: 2.2ms preprocess, 149.8ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 3 motorcycles, 134.2ms
+Speed: 2.1ms preprocess, 134.2ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 3 motorcycles, 120.7ms
+Speed: 1.7ms preprocess, 120.7ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 3 motorcycles, 222.4ms
+Speed: 1.6ms preprocess, 222.4ms inference, 5.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 1 dog, 316.3ms
+Speed: 37.7ms preprocess, 316.3ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 motorcycles, 160.1ms
+Speed: 2.2ms preprocess, 160.1ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 motorcycles, 166.3ms
+Speed: 2.3ms preprocess, 166.3ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 motorcycles, 151.1ms
+Speed: 1.8ms preprocess, 151.1ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 6 motorcycles, 149.6ms
+Speed: 1.6ms preprocess, 149.6ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 5 motorcycles, 164.7ms
+Speed: 2.2ms preprocess, 164.7ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 3 motorcycles, 131.7ms
+Speed: 2.3ms preprocess, 131.7ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 3 motorcycles, 129.7ms
+Speed: 1.7ms preprocess, 129.7ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 5 motorcycles, 1 dog, 142.6ms
+Speed: 1.6ms preprocess, 142.6ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 5 motorcycles, 142.6ms
+Speed: 1.7ms preprocess, 142.6ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 4 motorcycles, 136.2ms
+Speed: 1.6ms preprocess, 136.2ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 6 motorcycles, 140.0ms
+Speed: 1.8ms preprocess, 140.0ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 5 motorcycles, 147.0ms
+Speed: 1.7ms preprocess, 147.0ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 5 motorcycles, 139.8ms
+Speed: 2.3ms preprocess, 139.8ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 1 bicycle, 6 motorcycles, 173.1ms
+Speed: 2.3ms preprocess, 173.1ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 6 motorcycles, 156.2ms
+Speed: 2.1ms preprocess, 156.2ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 5 motorcycles, 1 skateboard, 129.1ms
+Speed: 1.9ms preprocess, 129.1ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 7 motorcycles, 116.8ms
+Speed: 1.6ms preprocess, 116.8ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 8 motorcycles, 124.8ms
+Speed: 1.5ms preprocess, 124.8ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 1 bicycle, 6 motorcycles, 135.7ms
+Speed: 2.6ms preprocess, 135.7ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 1 bicycle, 8 motorcycles, 132.8ms
+Speed: 1.7ms preprocess, 132.8ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 8 motorcycles, 131.0ms
+Speed: 1.9ms preprocess, 131.0ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 6 motorcycles, 135.7ms
+Speed: 1.8ms preprocess, 135.7ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 1 bicycle, 10 motorcycles, 133.3ms
+Speed: 1.7ms preprocess, 133.3ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 8 motorcycles, 121.6ms
+Speed: 1.4ms preprocess, 121.6ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 9 motorcycles, 129.4ms
+Speed: 1.5ms preprocess, 129.4ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 7 motorcycles, 120.9ms
+Speed: 1.5ms preprocess, 120.9ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 10 motorcycles, 140.5ms
+Speed: 1.4ms preprocess, 140.5ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 1 bicycle, 7 motorcycles, 129.9ms
+Speed: 1.3ms preprocess, 129.9ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 8 motorcycles, 136.1ms
+Speed: 1.4ms preprocess, 136.1ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 10 motorcycles, 128.7ms
+Speed: 1.8ms preprocess, 128.7ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 9 motorcycles, 135.8ms
+Speed: 1.8ms preprocess, 135.8ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 15 motorcycles, 154.6ms
+Speed: 1.6ms preprocess, 154.6ms inference, 5.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 10 motorcycles, 152.9ms
+Speed: 3.1ms preprocess, 152.9ms inference, 5.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 16 motorcycles, 237.0ms
+Speed: 5.3ms preprocess, 237.0ms inference, 6.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 11 motorcycles, 1 chair, 159.0ms
+Speed: 3.7ms preprocess, 159.0ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 10 motorcycles, 1 chair, 150.9ms
+Speed: 2.3ms preprocess, 150.9ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 16 persons, 11 motorcycles, 128.0ms
+Speed: 2.2ms preprocess, 128.0ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 17 persons, 10 motorcycles, 114.8ms
+Speed: 1.9ms preprocess, 114.8ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 14 persons, 12 motorcycles, 138.7ms
+Speed: 2.3ms preprocess, 138.7ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 17 persons, 13 motorcycles, 173.2ms
+Speed: 2.2ms preprocess, 173.2ms inference, 5.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 18 persons, 12 motorcycles, 138.2ms
+Speed: 2.4ms preprocess, 138.2ms inference, 5.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 17 persons, 11 motorcycles, 1 horse, 129.6ms
+Speed: 2.1ms preprocess, 129.6ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 14 motorcycles, 130.3ms
+Speed: 1.8ms preprocess, 130.3ms inference, 4.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 17 persons, 14 motorcycles, 126.6ms
+Speed: 2.4ms preprocess, 126.6ms inference, 6.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 8 motorcycles, 128.5ms
+Speed: 2.9ms preprocess, 128.5ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 17 persons, 1 bicycle, 13 motorcycles, 138.1ms
+Speed: 1.6ms preprocess, 138.1ms inference, 5.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 12 motorcycles, 1 horse, 118.8ms
+Speed: 1.8ms preprocess, 118.8ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 11 motorcycles, 1 horse, 122.0ms
+Speed: 1.8ms preprocess, 122.0ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 11 motorcycles, 125.7ms
+Speed: 1.8ms preprocess, 125.7ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 11 motorcycles, 120.8ms
+Speed: 2.1ms preprocess, 120.8ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 11 motorcycles, 120.9ms
+Speed: 1.6ms preprocess, 120.9ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 1 bicycle, 13 motorcycles, 120.9ms
+Speed: 2.2ms preprocess, 120.9ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 1 bicycle, 15 motorcycles, 126.2ms
+Speed: 2.2ms preprocess, 126.2ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 16 motorcycles, 121.8ms
+Speed: 1.8ms preprocess, 121.8ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 2 bicycles, 8 motorcycles, 120.6ms
+Speed: 1.5ms preprocess, 120.6ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 16 persons, 11 motorcycles, 125.9ms
+Speed: 1.9ms preprocess, 125.9ms inference, 5.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 2 bicycles, 8 motorcycles, 124.3ms
+Speed: 2.0ms preprocess, 124.3ms inference, 4.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 1 bicycle, 4 motorcycles, 165.5ms
+Speed: 1.6ms preprocess, 165.5ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 7 motorcycles, 181.2ms
+Speed: 4.4ms preprocess, 181.2ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 17 persons, 12 motorcycles, 142.6ms
+Speed: 1.8ms preprocess, 142.6ms inference, 5.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 14 persons, 9 motorcycles, 147.3ms
+Speed: 2.1ms preprocess, 147.3ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 1 bicycle, 10 motorcycles, 120.9ms
+Speed: 1.5ms preprocess, 120.9ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 14 persons, 11 motorcycles, 127.2ms
+Speed: 2.7ms preprocess, 127.2ms inference, 4.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 14 persons, 2 bicycles, 13 motorcycles, 145.5ms
+Speed: 2.0ms preprocess, 145.5ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 15 persons, 1 bicycle, 9 motorcycles, 144.1ms
+Speed: 2.0ms preprocess, 144.1ms inference, 4.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 14 motorcycles, 138.3ms
+Speed: 3.4ms preprocess, 138.3ms inference, 4.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 8 motorcycles, 128.1ms
+Speed: 1.7ms preprocess, 128.1ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 14 persons, 14 motorcycles, 152.4ms
+Speed: 3.1ms preprocess, 152.4ms inference, 4.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 1 bicycle, 11 motorcycles, 183.5ms
+Speed: 2.1ms preprocess, 183.5ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 5 motorcycles, 153.3ms
+Speed: 3.1ms preprocess, 153.3ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 8 motorcycles, 130.4ms
+Speed: 2.7ms preprocess, 130.4ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 1 bicycle, 11 motorcycles, 124.3ms
+Speed: 1.5ms preprocess, 124.3ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 10 motorcycles, 128.6ms
+Speed: 2.7ms preprocess, 128.6ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 11 motorcycles, 128.6ms
+Speed: 1.4ms preprocess, 128.6ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 1 bicycle, 11 motorcycles, 123.4ms
+Speed: 1.5ms preprocess, 123.4ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 9 motorcycles, 136.7ms
+Speed: 2.0ms preprocess, 136.7ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 13 persons, 8 motorcycles, 136.4ms
+Speed: 2.5ms preprocess, 136.4ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 5 motorcycles, 124.5ms
+Speed: 2.0ms preprocess, 124.5ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 7 motorcycles, 120.0ms
+Speed: 2.7ms preprocess, 120.0ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 3 motorcycles, 1 chair, 121.2ms
+Speed: 1.4ms preprocess, 121.2ms inference, 2.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 1 bicycle, 7 motorcycles, 1 chair, 123.9ms
+Speed: 2.6ms preprocess, 123.9ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 11 persons, 1 bicycle, 4 motorcycles, 1 chair, 123.0ms
+Speed: 1.9ms preprocess, 123.0ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 1 bicycle, 8 motorcycles, 138.4ms
+Speed: 1.5ms preprocess, 138.4ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 10 motorcycles, 1 chair, 133.4ms
+Speed: 1.7ms preprocess, 133.4ms inference, 4.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 7 motorcycles, 127.7ms
+Speed: 2.0ms preprocess, 127.7ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 7 motorcycles, 1 boat, 123.2ms
+Speed: 1.5ms preprocess, 123.2ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 6 motorcycles, 128.9ms
+Speed: 2.2ms preprocess, 128.9ms inference, 2.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 3 motorcycles, 131.7ms
+Speed: 1.5ms preprocess, 131.7ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 8 motorcycles, 1 boat, 127.8ms
+Speed: 2.6ms preprocess, 127.8ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 8 motorcycles, 1 boat, 124.4ms
+Speed: 2.4ms preprocess, 124.4ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 1 car, 2 motorcycles, 1 boat, 138.2ms
+Speed: 1.9ms preprocess, 138.2ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 12 motorcycles, 1 bus, 147.4ms
+Speed: 2.6ms preprocess, 147.4ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 12 persons, 9 motorcycles, 1 boat, 220.0ms
+Speed: 3.4ms preprocess, 220.0ms inference, 5.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 1 car, 7 motorcycles, 1 boat, 188.7ms
+Speed: 5.1ms preprocess, 188.7ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 5 motorcycles, 1 bus, 1 toilet, 149.5ms
+Speed: 2.0ms preprocess, 149.5ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 7 motorcycles, 1 bus, 1 boat, 1 toilet, 169.2ms
+Speed: 1.7ms preprocess, 169.2ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 1 car, 4 motorcycles, 1 toilet, 152.1ms
+Speed: 1.5ms preprocess, 152.1ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 1 car, 6 motorcycles, 1 bus, 1 boat, 132.4ms
+Speed: 1.5ms preprocess, 132.4ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 1 bicycle, 1 car, 3 motorcycles, 1 toilet, 131.9ms
+Speed: 1.3ms preprocess, 131.9ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 bicycle, 1 car, 3 motorcycles, 132.1ms
+Speed: 1.7ms preprocess, 132.1ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 1 car, 1 motorcycle, 1 suitcase, 120.7ms
+Speed: 1.6ms preprocess, 120.7ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 2 cars, 2 motorcycles, 120.8ms
+Speed: 1.4ms preprocess, 120.8ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 2 cars, 3 motorcycles, 154.4ms
+Speed: 1.7ms preprocess, 154.4ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 1 car, 1 motorcycle, 179.4ms
+Speed: 2.6ms preprocess, 179.4ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 10 persons, 1 car, 5 motorcycles, 150.9ms
+Speed: 1.7ms preprocess, 150.9ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 1 car, 3 motorcycles, 121.7ms
+Speed: 1.4ms preprocess, 121.7ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 1 motorcycle, 1 truck, 114.0ms
+Speed: 1.5ms preprocess, 114.0ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 2 cars, 2 motorcycles, 1 truck, 123.0ms
+Speed: 1.6ms preprocess, 123.0ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 2 cars, 6 motorcycles, 160.8ms
+Speed: 1.7ms preprocess, 160.8ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 3 cars, 3 motorcycles, 169.7ms
+Speed: 1.9ms preprocess, 169.7ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 3 cars, 6 motorcycles, 1 truck, 127.3ms
+Speed: 1.5ms preprocess, 127.3ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 5 motorcycles, 1 bus, 157.7ms
+Speed: 2.1ms preprocess, 157.7ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 1 car, 5 motorcycles, 1 bus, 1 truck, 142.5ms
+Speed: 1.7ms preprocess, 142.5ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 6 motorcycles, 1 bus, 126.9ms
+Speed: 1.6ms preprocess, 126.9ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 5 motorcycles, 1 bus, 1 surfboard, 122.7ms
+Speed: 1.3ms preprocess, 122.7ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 3 motorcycles, 1 truck, 1 boat, 125.0ms
+Speed: 1.4ms preprocess, 125.0ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 1 car, 4 motorcycles, 1 bus, 1 truck, 129.6ms
+Speed: 1.5ms preprocess, 129.6ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 9 persons, 1 car, 3 motorcycles, 1 bus, 1 truck, 146.3ms
+Speed: 1.6ms preprocess, 146.3ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 1 car, 3 motorcycles, 1 bus, 2 trucks, 185.5ms
+Speed: 1.8ms preprocess, 185.5ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 3 motorcycles, 1 bus, 1 truck, 137.4ms
+Speed: 1.9ms preprocess, 137.4ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 bicycle, 1 car, 2 motorcycles, 1 bus, 1 truck, 128.4ms
+Speed: 1.5ms preprocess, 128.4ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 3 motorcycles, 1 bus, 129.9ms
+Speed: 1.6ms preprocess, 129.9ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 3 motorcycles, 1 bus, 1 truck, 172.5ms
+Speed: 1.7ms preprocess, 172.5ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 1 bus, 195.4ms
+Speed: 2.6ms preprocess, 195.4ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 3 motorcycles, 1 bus, 1 truck, 157.8ms
+Speed: 2.9ms preprocess, 157.8ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 2 motorcycles, 1 bus, 1 truck, 158.6ms
+Speed: 1.9ms preprocess, 158.6ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 3 motorcycles, 1 truck, 155.3ms
+Speed: 4.5ms preprocess, 155.3ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 bicycle, 1 car, 1 motorcycle, 1 truck, 1 boat, 152.2ms
+Speed: 1.7ms preprocess, 152.2ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 3 motorcycles, 1 truck, 160.9ms
+Speed: 1.7ms preprocess, 160.9ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 1 motorcycle, 1 bus, 1 truck, 148.3ms
+Speed: 2.1ms preprocess, 148.3ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 1 car, 2 motorcycles, 1 truck, 1 boat, 151.0ms
+Speed: 1.8ms preprocess, 151.0ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 1 bus, 1 truck, 132.4ms
+Speed: 3.6ms preprocess, 132.4ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 1 motorcycle, 1 truck, 1 boat, 147.4ms
+Speed: 1.6ms preprocess, 147.4ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 1 motorcycle, 1 truck, 1 boat, 148.9ms
+Speed: 2.0ms preprocess, 148.9ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 1 car, 1 motorcycle, 1 truck, 1 boat, 144.9ms
+Speed: 2.1ms preprocess, 144.9ms inference, 2.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 2 trucks, 147.5ms
+Speed: 2.1ms preprocess, 147.5ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 2 cars, 2 motorcycles, 1 truck, 143.2ms
+Speed: 1.6ms preprocess, 143.2ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 1 motorcycle, 1 truck, 146.5ms
+Speed: 2.0ms preprocess, 146.5ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 3 motorcycles, 1 truck, 150.6ms
+Speed: 1.7ms preprocess, 150.6ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 1 bus, 1 truck, 151.7ms
+Speed: 2.6ms preprocess, 151.7ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 1 car, 2 motorcycles, 2 trucks, 167.3ms
+Speed: 2.3ms preprocess, 167.3ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 2 cars, 3 motorcycles, 1 truck, 159.8ms
+Speed: 2.1ms preprocess, 159.8ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 1 motorcycle, 1 truck, 232.4ms
+Speed: 1.9ms preprocess, 232.4ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 2 motorcycles, 1 truck, 335.1ms
+Speed: 29.0ms preprocess, 335.1ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 1 motorcycle, 1 truck, 181.2ms
+Speed: 3.4ms preprocess, 181.2ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 1 car, 1 motorcycle, 1 truck, 157.7ms
+Speed: 2.7ms preprocess, 157.7ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 2 cars, 1 motorcycle, 167.2ms
+Speed: 2.2ms preprocess, 167.2ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 2 cars, 1 motorcycle, 173.8ms
+Speed: 2.9ms preprocess, 173.8ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 truck, 166.1ms
+Speed: 2.8ms preprocess, 166.1ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 182.6ms
+Speed: 3.5ms preprocess, 182.6ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 2 cars, 1 motorcycle, 1 truck, 1 boat, 160.6ms
+Speed: 2.2ms preprocess, 160.6ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 157.2ms
+Speed: 2.1ms preprocess, 157.2ms inference, 2.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 176.9ms
+Speed: 2.7ms preprocess, 176.9ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 boat, 165.2ms
+Speed: 4.8ms preprocess, 165.2ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 truck, 1 boat, 177.4ms
+Speed: 1.5ms preprocess, 177.4ms inference, 2.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 164.9ms
+Speed: 3.7ms preprocess, 164.9ms inference, 1.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 2 cars, 1 motorcycle, 171.6ms
+Speed: 2.9ms preprocess, 171.6ms inference, 2.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 1 bicycle, 2 cars, 1 truck, 179.4ms
+Speed: 2.9ms preprocess, 179.4ms inference, 1.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 169.9ms
+Speed: 2.3ms preprocess, 169.9ms inference, 1.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 2 trucks, 164.1ms
+Speed: 2.4ms preprocess, 164.1ms inference, 1.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 truck, 174.1ms
+Speed: 2.8ms preprocess, 174.1ms inference, 2.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 truck, 171.6ms
+Speed: 2.1ms preprocess, 171.6ms inference, 1.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 truck, 158.5ms
+Speed: 3.3ms preprocess, 158.5ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 2 cars, 1 motorcycle, 1 truck, 175.7ms
+Speed: 1.8ms preprocess, 175.7ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 car, 1 motorcycle, 1 airplane, 1 truck, 174.7ms
+Speed: 1.6ms preprocess, 174.7ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 1 truck, 1 boat, 172.3ms
+Speed: 1.8ms preprocess, 172.3ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 2 cars, 1 truck, 173.4ms
+Speed: 1.9ms preprocess, 173.4ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 2 trucks, 168.5ms
+Speed: 1.9ms preprocess, 168.5ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 2 cars, 1 motorcycle, 1 truck, 1 boat, 167.3ms
+Speed: 2.1ms preprocess, 167.3ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 169.8ms
+Speed: 2.0ms preprocess, 169.8ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 2 cars, 2 motorcycles, 1 truck, 165.9ms
+Speed: 2.3ms preprocess, 165.9ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 1 truck, 172.7ms
+Speed: 2.9ms preprocess, 172.7ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 1 truck, 175.3ms
+Speed: 1.7ms preprocess, 175.3ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 boat, 171.6ms
+Speed: 2.1ms preprocess, 171.6ms inference, 2.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 truck, 1 boat, 174.8ms
+Speed: 2.1ms preprocess, 174.8ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 1 truck, 164.6ms
+Speed: 2.2ms preprocess, 164.6ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 1 motorcycle, 172.4ms
+Speed: 2.2ms preprocess, 172.4ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 1 motorcycle, 161.2ms
+Speed: 2.2ms preprocess, 161.2ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 197.8ms
+Speed: 2.5ms preprocess, 197.8ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 2 motorcycles, 182.4ms
+Speed: 2.1ms preprocess, 182.4ms inference, 2.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 1 motorcycle, 203.2ms
+Speed: 2.5ms preprocess, 203.2ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 2 motorcycles, 165.5ms
+Speed: 1.8ms preprocess, 165.5ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 1 motorcycle, 1 boat, 171.5ms
+Speed: 2.0ms preprocess, 171.5ms inference, 2.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 172.7ms
+Speed: 2.3ms preprocess, 172.7ms inference, 1.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 3 cars, 1 motorcycle, 1 boat, 162.4ms
+Speed: 2.2ms preprocess, 162.4ms inference, 2.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 2 motorcycles, 1 truck, 1 boat, 175.4ms
+Speed: 2.3ms preprocess, 175.4ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 truck, 1 boat, 171.2ms
+Speed: 2.4ms preprocess, 171.2ms inference, 2.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 1 boat, 165.5ms
+Speed: 2.0ms preprocess, 165.5ms inference, 2.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 1 truck, 1 boat, 170.7ms
+Speed: 2.1ms preprocess, 170.7ms inference, 2.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 1 motorcycle, 2 trucks, 175.6ms
+Speed: 1.9ms preprocess, 175.6ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 truck, 1 boat, 190.3ms
+Speed: 1.8ms preprocess, 190.3ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 4 cars, 1 motorcycle, 178.8ms
+Speed: 2.4ms preprocess, 178.8ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 1 boat, 160.4ms
+Speed: 2.2ms preprocess, 160.4ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 4 cars, 2 motorcycles, 169.0ms
+Speed: 2.0ms preprocess, 169.0ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 1 motorcycle, 1 boat, 156.9ms
+Speed: 1.8ms preprocess, 156.9ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 1 boat, 172.8ms
+Speed: 2.2ms preprocess, 172.8ms inference, 2.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 1 motorcycle, 1 boat, 167.9ms
+Speed: 2.4ms preprocess, 167.9ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 1 boat, 186.0ms
+Speed: 2.1ms preprocess, 186.0ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 3 cars, 2 motorcycles, 1 boat, 164.8ms
+Speed: 2.5ms preprocess, 164.8ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 3 motorcycles, 1 bus, 1 boat, 157.4ms
+Speed: 2.0ms preprocess, 157.4ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 3 cars, 2 motorcycles, 1 boat, 147.7ms
+Speed: 2.0ms preprocess, 147.7ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 4 cars, 3 motorcycles, 1 truck, 158.2ms
+Speed: 2.4ms preprocess, 158.2ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 3 motorcycles, 1 truck, 1 boat, 154.8ms
+Speed: 2.0ms preprocess, 154.8ms inference, 5.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 3 motorcycles, 177.3ms
+Speed: 2.6ms preprocess, 177.3ms inference, 5.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 3 cars, 2 motorcycles, 1 boat, 166.4ms
+Speed: 2.6ms preprocess, 166.4ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 1 person, 4 cars, 3 motorcycles, 1 boat, 161.0ms
+Speed: 2.7ms preprocess, 161.0ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 5 motorcycles, 1 bus, 1 boat, 167.5ms
+Speed: 3.1ms preprocess, 167.5ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 4 motorcycles, 1 bus, 1 boat, 203.3ms
+Speed: 2.7ms preprocess, 203.3ms inference, 5.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 5 motorcycles, 1 bus, 1 truck, 1 boat, 179.0ms
+Speed: 3.8ms preprocess, 179.0ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 4 cars, 4 motorcycles, 1 truck, 177.3ms
+Speed: 2.7ms preprocess, 177.3ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 1 bicycle, 4 cars, 2 motorcycles, 1 truck, 172.1ms
+Speed: 3.9ms preprocess, 172.1ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 3 motorcycles, 1 bus, 1 truck, 187.3ms
+Speed: 48.0ms preprocess, 187.3ms inference, 4.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 2 motorcycles, 1 bus, 1 truck, 187.4ms
+Speed: 2.4ms preprocess, 187.4ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 3 motorcycles, 1 bus, 1 truck, 187.4ms
+Speed: 2.2ms preprocess, 187.4ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 6 cars, 1 motorcycle, 170.5ms
+Speed: 2.5ms preprocess, 170.5ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 1 motorcycle, 178.6ms
+Speed: 2.1ms preprocess, 178.6ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 6 cars, 3 motorcycles, 172.5ms
+Speed: 2.0ms preprocess, 172.5ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 6 cars, 4 motorcycles, 167.4ms
+Speed: 2.5ms preprocess, 167.4ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 5 cars, 2 motorcycles, 226.7ms
+Speed: 1.9ms preprocess, 226.7ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 6 cars, 2 motorcycles, 195.5ms
+Speed: 3.6ms preprocess, 195.5ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 7 cars, 1 motorcycle, 174.6ms
+Speed: 2.1ms preprocess, 174.6ms inference, 4.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 7 cars, 3 motorcycles, 1 bus, 169.4ms
+Speed: 2.1ms preprocess, 169.4ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 6 cars, 4 motorcycles, 169.5ms
+Speed: 2.3ms preprocess, 169.5ms inference, 2.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 6 cars, 3 motorcycles, 166.3ms
+Speed: 4.1ms preprocess, 166.3ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 6 cars, 3 motorcycles, 172.5ms
+Speed: 2.5ms preprocess, 172.5ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 3 motorcycles, 1 bus, 1 truck, 164.8ms
+Speed: 2.4ms preprocess, 164.8ms inference, 4.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 3 motorcycles, 1 truck, 161.5ms
+Speed: 2.8ms preprocess, 161.5ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 5 motorcycles, 159.4ms
+Speed: 2.1ms preprocess, 159.4ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 6 cars, 4 motorcycles, 165.0ms
+Speed: 2.1ms preprocess, 165.0ms inference, 4.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 5 motorcycles, 167.4ms
+Speed: 2.2ms preprocess, 167.4ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 4 motorcycles, 1 bus, 178.4ms
+Speed: 2.1ms preprocess, 178.4ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 6 motorcycles, 1 bus, 178.4ms
+Speed: 2.5ms preprocess, 178.4ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 4 motorcycles, 1 bus, 180.9ms
+Speed: 3.1ms preprocess, 180.9ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 4 motorcycles, 1 bus, 1 truck, 173.4ms
+Speed: 3.4ms preprocess, 173.4ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 5 motorcycles, 1 truck, 185.4ms
+Speed: 2.1ms preprocess, 185.4ms inference, 6.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 5 motorcycles, 218.3ms
+Speed: 3.8ms preprocess, 218.3ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 3 motorcycles, 187.4ms
+Speed: 2.7ms preprocess, 187.4ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 4 motorcycles, 162.9ms
+Speed: 2.7ms preprocess, 162.9ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 5 motorcycles, 1 bus, 164.1ms
+Speed: 2.2ms preprocess, 164.1ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 4 motorcycles, 186.9ms
+Speed: 2.6ms preprocess, 186.9ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 6 cars, 4 motorcycles, 215.2ms
+Speed: 2.9ms preprocess, 215.2ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 5 motorcycles, 175.7ms
+Speed: 2.0ms preprocess, 175.7ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 6 cars, 5 motorcycles, 172.3ms
+Speed: 2.8ms preprocess, 172.3ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 5 cars, 5 motorcycles, 165.4ms
+Speed: 2.6ms preprocess, 165.4ms inference, 3.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 4 motorcycles, 163.5ms
+Speed: 1.9ms preprocess, 163.5ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 6 cars, 4 motorcycles, 179.3ms
+Speed: 2.2ms preprocess, 179.3ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 6 cars, 7 motorcycles, 200.8ms
+Speed: 2.8ms preprocess, 200.8ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 6 cars, 4 motorcycles, 201.7ms
+Speed: 3.0ms preprocess, 201.7ms inference, 4.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 6 cars, 2 motorcycles, 268.6ms
+Speed: 6.2ms preprocess, 268.6ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 7 cars, 5 motorcycles, 199.5ms
+Speed: 2.8ms preprocess, 199.5ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 7 cars, 4 motorcycles, 172.5ms
+Speed: 3.4ms preprocess, 172.5ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 7 cars, 3 motorcycles, 177.2ms
+Speed: 3.7ms preprocess, 177.2ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 7 cars, 6 motorcycles, 160.7ms
+Speed: 2.9ms preprocess, 160.7ms inference, 5.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 7 cars, 6 motorcycles, 269.4ms
+Speed: 2.6ms preprocess, 269.4ms inference, 5.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 7 cars, 6 motorcycles, 189.7ms
+Speed: 3.8ms preprocess, 189.7ms inference, 4.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 7 cars, 8 motorcycles, 242.1ms
+Speed: 2.3ms preprocess, 242.1ms inference, 5.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 7 cars, 7 motorcycles, 201.2ms
+Speed: 3.0ms preprocess, 201.2ms inference, 5.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 7 cars, 4 motorcycles, 213.1ms
+Speed: 5.2ms preprocess, 213.1ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 6 cars, 2 motorcycles, 1 boat, 162.5ms
+Speed: 2.4ms preprocess, 162.5ms inference, 5.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 2 persons, 7 cars, 4 motorcycles, 220.2ms
+Speed: 3.5ms preprocess, 220.2ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 6 cars, 3 motorcycles, 189.4ms
+Speed: 2.5ms preprocess, 189.4ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 7 cars, 6 motorcycles, 1 truck, 183.2ms
+Speed: 3.2ms preprocess, 183.2ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 6 cars, 6 motorcycles, 171.9ms
+Speed: 3.2ms preprocess, 171.9ms inference, 9.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 6 cars, 5 motorcycles, 1 horse, 261.2ms
+Speed: 2.9ms preprocess, 261.2ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 6 cars, 5 motorcycles, 166.7ms
+Speed: 2.7ms preprocess, 166.7ms inference, 5.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 6 cars, 6 motorcycles, 1 bus, 1 truck, 201.2ms
+Speed: 3.0ms preprocess, 201.2ms inference, 5.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 5 motorcycles, 1 bus, 1 truck, 153.5ms
+Speed: 2.1ms preprocess, 153.5ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 6 cars, 5 motorcycles, 153.0ms
+Speed: 2.5ms preprocess, 153.0ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 6 cars, 9 motorcycles, 162.4ms
+Speed: 2.1ms preprocess, 162.4ms inference, 5.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 6 cars, 6 motorcycles, 176.2ms
+Speed: 2.4ms preprocess, 176.2ms inference, 4.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 7 cars, 7 motorcycles, 164.4ms
+Speed: 2.8ms preprocess, 164.4ms inference, 5.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 7 cars, 8 motorcycles, 197.6ms
+Speed: 2.7ms preprocess, 197.6ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 5 motorcycles, 1 truck, 200.7ms
+Speed: 3.0ms preprocess, 200.7ms inference, 4.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 6 motorcycles, 176.5ms
+Speed: 2.2ms preprocess, 176.5ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 5 motorcycles, 217.8ms
+Speed: 3.1ms preprocess, 217.8ms inference, 5.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 5 motorcycles, 160.4ms
+Speed: 2.5ms preprocess, 160.4ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 6 cars, 5 motorcycles, 186.2ms
+Speed: 2.6ms preprocess, 186.2ms inference, 5.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 4 cars, 7 motorcycles, 223.2ms
+Speed: 2.8ms preprocess, 223.2ms inference, 5.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 7 motorcycles, 1 truck, 155.3ms
+Speed: 2.4ms preprocess, 155.3ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 4 cars, 6 motorcycles, 171.7ms
+Speed: 3.1ms preprocess, 171.7ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 4 cars, 6 motorcycles, 166.9ms
+Speed: 3.6ms preprocess, 166.9ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 7 motorcycles, 212.3ms
+Speed: 3.0ms preprocess, 212.3ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 8 motorcycles, 175.2ms
+Speed: 2.7ms preprocess, 175.2ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 4 cars, 7 motorcycles, 167.8ms
+Speed: 2.3ms preprocess, 167.8ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 7 motorcycles, 1 bus, 173.9ms
+Speed: 2.4ms preprocess, 173.9ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 6 motorcycles, 1 bus, 178.8ms
+Speed: 2.0ms preprocess, 178.8ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 5 motorcycles, 1 bus, 191.0ms
+Speed: 2.2ms preprocess, 191.0ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 3 cars, 5 motorcycles, 1 bus, 164.7ms
+Speed: 2.2ms preprocess, 164.7ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 3 cars, 5 motorcycles, 1 bus, 181.0ms
+Speed: 2.2ms preprocess, 181.0ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 5 motorcycles, 1 bus, 170.4ms
+Speed: 1.9ms preprocess, 170.4ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 7 motorcycles, 1 bus, 168.0ms
+Speed: 2.1ms preprocess, 168.0ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 7 motorcycles, 1 bus, 183.5ms
+Speed: 2.2ms preprocess, 183.5ms inference, 7.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 5 motorcycles, 1 bus, 147.8ms
+Speed: 2.0ms preprocess, 147.8ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 7 motorcycles, 1 bus, 159.6ms
+Speed: 2.4ms preprocess, 159.6ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 7 motorcycles, 160.1ms
+Speed: 2.1ms preprocess, 160.1ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 5 motorcycles, 154.6ms
+Speed: 2.2ms preprocess, 154.6ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 5 motorcycles, 176.8ms
+Speed: 2.1ms preprocess, 176.8ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 4 motorcycles, 1 truck, 178.3ms
+Speed: 1.8ms preprocess, 178.3ms inference, 5.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 7 motorcycles, 145.9ms
+Speed: 2.2ms preprocess, 145.9ms inference, 6.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 5 motorcycles, 1 bus, 1 boat, 158.6ms
+Speed: 2.5ms preprocess, 158.6ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 5 motorcycles, 1 bus, 1 boat, 174.9ms
+Speed: 3.8ms preprocess, 174.9ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 4 motorcycles, 1 toilet, 167.1ms
+Speed: 2.8ms preprocess, 167.1ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 6 motorcycles, 1 airplane, 1 toilet, 183.2ms
+Speed: 2.7ms preprocess, 183.2ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 3 cars, 4 motorcycles, 186.7ms
+Speed: 2.1ms preprocess, 186.7ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 5 motorcycles, 1 parking meter, 178.7ms
+Speed: 2.4ms preprocess, 178.7ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 4 motorcycles, 208.5ms
+Speed: 2.3ms preprocess, 208.5ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 5 motorcycles, 190.9ms
+Speed: 2.3ms preprocess, 190.9ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 3 cars, 5 motorcycles, 1 toilet, 173.1ms
+Speed: 2.1ms preprocess, 173.1ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 1 bicycle, 3 cars, 4 motorcycles, 1 toilet, 174.6ms
+Speed: 2.0ms preprocess, 174.6ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 3 cars, 5 motorcycles, 1 toilet, 173.9ms
+Speed: 2.2ms preprocess, 173.9ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 6 motorcycles, 181.0ms
+Speed: 2.2ms preprocess, 181.0ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 4 motorcycles, 1 toilet, 179.7ms
+Speed: 2.2ms preprocess, 179.7ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 4 cars, 6 motorcycles, 1 toilet, 170.7ms
+Speed: 2.0ms preprocess, 170.7ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 5 motorcycles, 1 toilet, 172.5ms
+Speed: 1.8ms preprocess, 172.5ms inference, 2.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 4 cars, 5 motorcycles, 1 toilet, 162.4ms
+Speed: 1.8ms preprocess, 162.4ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 4 cars, 5 motorcycles, 1 toilet, 166.9ms
+Speed: 1.7ms preprocess, 166.9ms inference, 3.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 3 persons, 3 cars, 6 motorcycles, 1 toilet, 174.3ms
+Speed: 1.8ms preprocess, 174.3ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 3 cars, 7 motorcycles, 1 airplane, 180.3ms
+Speed: 1.5ms preprocess, 180.3ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 3 cars, 9 motorcycles, 1 airplane, 163.7ms
+Speed: 3.1ms preprocess, 163.7ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 7 motorcycles, 1 toilet, 164.9ms
+Speed: 2.2ms preprocess, 164.9ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 6 motorcycles, 1 truck, 1 cell phone, 163.8ms
+Speed: 3.2ms preprocess, 163.8ms inference, 3.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 6 cars, 5 motorcycles, 158.1ms
+Speed: 2.0ms preprocess, 158.1ms inference, 3.2ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 4 persons, 5 cars, 7 motorcycles, 1 cell phone, 159.5ms
+Speed: 2.1ms preprocess, 159.5ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 6 cars, 5 motorcycles, 161.2ms
+Speed: 2.2ms preprocess, 161.2ms inference, 3.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 6 cars, 5 motorcycles, 160.6ms
+Speed: 2.2ms preprocess, 160.6ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 7 motorcycles, 1 bus, 172.7ms
+Speed: 1.9ms preprocess, 172.7ms inference, 4.4ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 6 motorcycles, 164.2ms
+Speed: 1.9ms preprocess, 164.2ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 5 motorcycles, 157.5ms
+Speed: 1.9ms preprocess, 157.5ms inference, 4.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 4 motorcycles, 163.4ms
+Speed: 2.0ms preprocess, 163.4ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 5 motorcycles, 172.7ms
+Speed: 2.3ms preprocess, 172.7ms inference, 3.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 4 motorcycles, 177.4ms
+Speed: 2.2ms preprocess, 177.4ms inference, 3.5ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 6 motorcycles, 156.9ms
+Speed: 1.7ms preprocess, 156.9ms inference, 4.1ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 4 motorcycles, 164.0ms
+Speed: 1.6ms preprocess, 164.0ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 5 cars, 4 motorcycles, 161.1ms
+Speed: 1.7ms preprocess, 161.1ms inference, 3.7ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 4 motorcycles, 172.0ms
+Speed: 2.3ms preprocess, 172.0ms inference, 3.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 5 cars, 4 motorcycles, 165.4ms
+Speed: 1.8ms preprocess, 165.4ms inference, 4.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 5 cars, 5 motorcycles, 169.2ms
+Speed: 1.8ms preprocess, 169.2ms inference, 4.8ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 8 persons, 5 cars, 5 motorcycles, 167.2ms
+Speed: 1.9ms preprocess, 167.2ms inference, 4.3ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 7 persons, 4 cars, 5 motorcycles, 162.9ms
+Speed: 1.8ms preprocess, 162.9ms inference, 3.9ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 5 motorcycles, 176.2ms
+Speed: 1.9ms preprocess, 176.2ms inference, 4.6ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 6 persons, 4 cars, 4 motorcycles, 1 bus, 1 skis, 163.0ms
+Speed: 1.7ms preprocess, 163.0ms inference, 5.0ms postprocess per image at shape (1, 3, 480, 640)
+
+0: 480x640 5 persons, 4 cars, 5 motorcycles, 1 bus, 166.7ms
+Speed: 1.8ms preprocess, 166.7ms inference, 4.2ms postprocess per image at shape (1, 3, 480, 640)
+Finished: 5638-183850414_small.mp4
