@@ -157,7 +157,7 @@ accident.py - <img width="585" height="456" alt="image" src="https://github.com/
 atcc.py - <img width="520" height="801" alt="image" src="https://github.com/user-attachments/assets/c7328b40-6111-41d9-97bb-d44fae19e328" />
 heatmap_visualization.py - <img width="608" height="497" alt="image" src="https://github.com/user-attachments/assets/6560e64c-de33-48d4-a272-b8881c581b9e" />
 helmet_detection.py - <img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/45129ae0-e83d-4a49-a048-53de5881374b" />
-traffic_violation.py - 
+traffic_violation.py - <img width="1251" height="691" alt="image" src="https://github.com/user-attachments/assets/fe76e10e-17c7-4b3a-938a-deff1592ca02" />
 triple_riding.py - <img width="726" height="438" alt="image" src="https://github.com/user-attachments/assets/7248d45f-e5f3-408c-81f2-0fac4f3b049f" />
 app.py :-
 interface - <img width="1428" height="849" alt="image" src="https://github.com/user-attachments/assets/3bde7f20-a6e3-4fe4-a81c-da733996118f" />
@@ -169,7 +169,7 @@ live monitoring - anpr output - <img width="1184" height="672" alt="image" src="
                 - Accident Detection - <img width="612" height="494" alt="image" src="https://github.com/user-attachments/assets/a342adac-3bb3-465e-938b-544669d1ebda" />
                 - Triple Riding Detection - <img width="635" height="490" alt="image" src="https://github.com/user-attachments/assets/34bde57a-0214-4035-8d37-1c1f77398cdc" />
                 - Helmet Detection - <img width="631" height="497" alt="image" src="https://github.com/user-attachments/assets/b106bf4f-9a07-4b19-85fc-c917b4e54d75" />
-                - Traffic Violation Detection - 
+                - Traffic Violation Detection - <img width="1251" height="691" alt="image" src="https://github.com/user-attachments/assets/681b0cd6-59b6-43f6-9f81-feafa97b5a49" />
 Upload Video - <img width="1426" height="559" alt="image" src="https://github.com/user-attachments/assets/4b649f39-07f9-40b9-8d63-82af6690e8c5" />
 Results - <img width="1368" height="634" alt="image" src="https://github.com/user-attachments/assets/784afbd2-1ca1-49ce-9f02-c7e98bffb91c" />
 db - <img width="440" height="126" alt="image" src="https://github.com/user-attachments/assets/0607916d-dd52-4d75-ae49-b5b966997b7f" />
